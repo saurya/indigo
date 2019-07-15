@@ -1,22 +1,22 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Saurya Simha Velagapudi
+bio: Engineer, writer, future PhD candidate? [to be determined]
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: I write when I feel like it, about what I feel like.
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://pbs.twimg.com/profile_images/1051312680517087232/QFPnQVVe_400x400.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://saurya.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,38 +34,33 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+twitter: saurya
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: saurya
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+medium: SauryaSimha
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+# email: myemail@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+    saurya:
+        name: Saurya Simha Velagapudi
+        bio: Engineer, writer, future PhD candidate? [to be determined]
+        external-image: true
+        picture: https://pbs.twimg.com/profile_images/1051312680517087232/QFPnQVVe_400x400.jpg
+        twitter: saurya
+    
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
