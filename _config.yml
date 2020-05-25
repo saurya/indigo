@@ -53,12 +53,12 @@ medium: medium
 email: david@davidlpeterson.com
 
 authors:
-  johndoe:
+  johndoe: davidpeterson
     name: David Peterson
-    bio: A Man who travels the world eating noodles
+    bio: I work in tech
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
+    picture: assets/images/David.jpg
+    twitter: edavidpeterson
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
