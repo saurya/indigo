@@ -5,14 +5,14 @@ date: 2020-05-27 09:25
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- no-code
+- no code
 - saas
 category: blog
 author: davidpeterson
 description: "No-code" tools and a new era of entrepreneurship
 ---
 
-Prediction: The increasing power of “no-code” tools will lead to an explosion in the number of niche, B2B software businesses. The current venture capital model isn’t a good fit for these businesses, however. As a result, there will be an increase in demand for alternative funding models. As these businesses mature, more and more players will seek to acquire them to benefit from their consistent cash flows, leading to a boom in micro private equity.
+*Prediction*: The increasing power of “no-code” tools will lead to an explosion in the number of niche, B2B software businesses. The current venture capital model isn’t a good fit for these businesses, however. As a result, there will be an increase in demand for alternative funding models. As these businesses mature, more and more players will seek to acquire them to benefit from their consistent cash flows, leading to a boom in micro private equity.
 
 ## A new era of entrepreneurship
 
