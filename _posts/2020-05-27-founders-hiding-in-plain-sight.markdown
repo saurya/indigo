@@ -37,7 +37,7 @@ This is where others may disagree. But experiences like the one described above 
 
 So, what’s scarce in a world where everybody is empowered to build software? Design/UX, go-to-market, and deep industry expertise. In particular, I imagine industries that are underserved by software will be fertile ground for the next cohort of entrepreneurs. Just like the owner of this design and architecture firm, there are countless entrepreneurially-minded people who deeply understand the problems their industry faces, but just haven’t had the tools to build solutions until now.
 
-any of these people will build solutions for their companies, take the promotion, and keep working. However, some of these builders will recognize that they can sell these solutions, and will seek to start companies to capture the value that they have created.
+Many of these people will build solutions for their companies, take the promotion, and keep working. However, some of these builders will recognize that they can sell these solutions, and will seek to start companies to capture the value that they have created.
 
 This is what will lead to an explosion of niche B2B software companies.
 
