@@ -10,7 +10,7 @@ You can find me on <a href="https://www.twitter.com/edavidpeterson">Twitter</a> 
 
 <h2>Contact me</h2>
 
-<p>Send me an email at david@davidlpeterson.com</p?
+<p>Send me an email at david@davidlpeterson.com</p>
 
 <h2>Favorite posts</h2>
 
