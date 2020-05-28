@@ -60,4 +60,4 @@ However, it’s still early. I may be wrong. And I’d love to discuss and debat
 * As the barrier to creation lowers, I imagine we’ll see more and more copycats. How does that dynamic factor in?
 * How will these changes impact the micro private equity environment?
 
-If you’re interested in discussing any of the above, or if you’re a founder hiding in plain sight, please reach out! You can find me at david@davidlpeterson.com or on Twitter @edavidpeterson.
+If you’re interested in discussing any of the above, or if you’re a founder hiding in plain sight, please reach out! You can find me at david@davidlpeterson.com or on Twitter [@edavidpeterson](https://www.twitter.com/edavidpeterson).
