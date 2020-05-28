@@ -56,7 +56,8 @@ In short, I predict that “no-code” tools will empower a new type of entrepre
 However, it’s still early. I may be wrong. And I’d love to discuss and debate these ideas more! In particular, here are some questions that I’m interested in digging into:
 
 * What other alternative funding models exist today? Who is doing this particularly well? Where are there gaps?
-* The transition from — “I built this great solution” to “I turned this solution into a thriving company” — is not simple, though I do think “no-code” tools make it easier than before. The startup studio model may help here. Who is working on this? * What other opportunities exist in this space to help these entrepreneurially-minded folks turn their solutions into companies?
+* The transition from — “I built this great solution” to “I turned this solution into a thriving company” — is not simple, though I do think “no-code” tools make it easier than before. The startup studio model may help here. Who is working on this? 
+* What other opportunities exist in this space to help these entrepreneurially-minded folks turn their solutions into companies?
 * As the barrier to creation lowers, I imagine we’ll see more and more copycats. How does that dynamic factor in?
 * How will these changes impact the micro private equity environment?
 
