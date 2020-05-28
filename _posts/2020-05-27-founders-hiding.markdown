@@ -12,6 +12,7 @@ author: davidpeterson
 description: "No-code" tools and a new era of entrepreneurship
 ---
 
+(Also published on Medium [here](https://medium.com/@edavidpeterson/founders-hiding-in-plain-sight-f3335e8b034e).)
 *Prediction*: The increasing power of “no-code” tools will lead to an explosion in the number of niche, B2B software businesses. The current venture capital model isn’t a good fit for these businesses, however. As a result, there will be an increase in demand for alternative funding models. As these businesses mature, more and more players will seek to acquire them to benefit from their consistent cash flows, leading to a boom in micro private equity.
 
 ## A new era of entrepreneurship
